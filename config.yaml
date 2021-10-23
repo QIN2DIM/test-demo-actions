@@ -1,4 +1,4 @@
-baseurl: https://example.com
+baseurl: https://qin2dim.github.io/test-demo-repo
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
